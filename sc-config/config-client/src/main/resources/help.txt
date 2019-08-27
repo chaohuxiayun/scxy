@@ -1,0 +1,4 @@
+
+
+// 消息总线刷新服务，重新从配置中心获取配置文件
+http://localhost:8881/actuator/bus-refresh
